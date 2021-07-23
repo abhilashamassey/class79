@@ -1,0 +1,21 @@
+input
+{
+    margin: 10px;
+    color: black;
+    background-color: rgb(212, 230, 164);
+}
+#Submit_button
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: blue;
+    background-color: crimson;
+}
+#sort_button
+{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: blue;
+    background-color: crimson;
+}
